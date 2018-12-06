@@ -1,3 +1,3 @@
 # CyberShelf
-CyberShelf application
-SE302 TEAM7 PROJECT
+CyberShelf Application.
+SE302 Team7 Project.
